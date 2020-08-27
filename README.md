@@ -6,4 +6,4 @@ This project deals with file systems in two parts. It first analyzes an EXT2 fil
 
 A description of the included files as well as sources used is documented in the README of both the lab3a and lab3b directories. For reference, the specifications for this project are given in lab3a/Project 3a.pdf and lab3b/Project 3B.pdf.
 
-This was my implementation of Lab 3 in UCLA's CS 111 -- Operating System Principles.
+This was my implementation of Lab 3 in UCLA's CS 111 -- Operating System Principles. Taken Winter 2020.
