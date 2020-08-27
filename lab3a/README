@@ -1,0 +1,22 @@
+NAME: Marcus Pearce, Ryan Lam
+EMAIL: marcuspearce7@g.ucla.edu, ryan.lam53@gmail.com
+ID: 305115848, 705124474
+
+Included files:
+
+README: This file.
+
+lab3a.c: Source code for lab3a program.
+
+ext2_fs.h: Header file that defines format of EXT2 file system.
+
+Makefile: Includes targets for compiling lab3a program, creating tarball, and removing created files.
+
+Sources:
+https://www.nongnu.org/ext2-doc/ext2.html#inode-table
+https://www.epochconverter.com/programming/c
+http://www.cplusplus.com/reference/ctime/gmtime/
+https://stackoverflow.com/questions/3270307/how-do-i-get-the-lower-8-bits-of-int
+https://stackoverflow.com/questions/8584577/access-bits-in-a-char-in-c
+
+

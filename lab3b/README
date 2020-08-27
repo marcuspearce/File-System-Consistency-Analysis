@@ -1,0 +1,18 @@
+NAME: Marcus Pearce, Ryan Lam
+EMAIL: marcuspearce7@g.ucla.edu, ryan.lam53@gmail.com
+ID: 305115848, 705124474
+
+CS 111 Project 3b
+
+Included Files:
+
+README: This file.
+
+Makefile: Includes targets for creating link to Python source file, creating tarball, and removing created files.
+
+lab3b.py: Python source file for lab3b program.
+
+Outside Sources:
+https://www.geeksforgeeks.org/python-sets/
+https://www.w3schools.com/python/python_dictionaries.asp
+https://syntaxdb.com/ref/python/class-variables
